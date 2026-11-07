@@ -1,0 +1,8 @@
+# Manauna Technology Security Disclosure Information
+Contact: mailto:security@manaunatechnology.com
+Contact: mailto:support@manaunatechnology.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://manojcse90.github.io/manauna-technology/.well-known/security.txt
+Policy: https://manojcse90.github.io/manauna-technology/security.html
+Acknowledgments: https://manojcse90.github.io/manauna-technology/security.html
