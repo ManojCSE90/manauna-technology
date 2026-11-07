@@ -62,7 +62,7 @@ function handleContactSubmit(event) {
     feedback.innerHTML = `
       <strong>Thank you, ${escapeHtml(name)}!</strong><br>
       Your inquiry regarding <em>${escapeHtml(subject)}</em> has been received. Our operations team will respond to <strong>${escapeHtml(email)}</strong> within 24–48 business hours.<br>
-      <small>Direct escalation: <a href="mailto:support@manaunatechnology.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}">Click here to open in your default mail app</a>.</small>
+      <small>Direct escalation: <a href="mailto:manoj.cs.iu@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}">Click here to open in your default mail app</a>.</small>
     `;
 
     submitBtn.disabled = false;

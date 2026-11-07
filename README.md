@@ -65,7 +65,7 @@ Google Play requires organizations to provide:
 - ✅ **D-U-N-S® Number:** **311724262** (Verified by Dun & Bradstreet)
 - ✅ **GST Registration Number:** **09AJGPY9464P1ZV** (Govt. of India Form GST REG-06)
 - ✅ **Registered Physical Address:** 132, Block N, Sector-12, Noida Town, Noida, Gautam Buddha Nagar, Uttar Pradesh 201301, India (Displayed on Home, Contact, Privacy, and Terms pages).
-- ✅ **Official Support Email:** Verified contact email (`support@manaunatechnology.com` / `contact@manaunatechnology.com` / `manoj.cs.iu@gmail.com`).
+- ✅ **Official Support Email:** Verified contact email (`manoj.cs.iu@gmail.com`).
 - ✅ **Live Privacy Policy:** Fully articulated on `/privacy.html`, covering data collection, retention, and deletion procedures.
 - ✅ **Account & Data Deletion:** Dedicated section on `/privacy.html#data-deletion`.
 
